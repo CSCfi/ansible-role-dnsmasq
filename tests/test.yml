@@ -24,4 +24,4 @@
     dnsmasq_option_router: '192.168.6.254'
 
   roles:
-    - dnsmasq
+    - ansible-role-dnsmasq
